@@ -1,2 +1,3 @@
 # hello-world
-New Github. From 2D to 3D, modeling and coding.
+New Github. From animation to gaming.
+New thoughts about this journey.
